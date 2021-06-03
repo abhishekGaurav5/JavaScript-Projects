@@ -1,3 +1,3 @@
 # JavaScript DrumKit
 
-![Alt text](/ss.jpg "Optional Title")
+![ScreenShot](/ss.jpg "Optional Title")
