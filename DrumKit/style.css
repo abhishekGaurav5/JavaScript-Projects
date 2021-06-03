@@ -10,7 +10,6 @@ html {
   padding: 0;
   font-family: Helvetica;
 }
-
 .keys {
   display: flex;
   flex: 1;
@@ -36,13 +35,13 @@ html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #f5e50e;
+  box-shadow: 0 0 1rem #8fda16;
 }
 
 kbd {
   display: block;
-  font-size: 4rem;
+  font-size: 5rem;
 }
 
 .sound {
