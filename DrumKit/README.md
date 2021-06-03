@@ -1,3 +1,3 @@
 # JavaScript DrumKit
 
-![ScreenShot](/ss.jpg "Optional Title")
+![ScreenShot](./images/ss.jpg "DrumKit Page")
